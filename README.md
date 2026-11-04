@@ -24,33 +24,11 @@ I'm drawn to real time systems, retrieval and developer tooling, and I'm looking
 
 TypeScript, React, Next.js, Node.js, Go, PostgreSQL, MongoDB, Redis, Docker, GitHub Actions
 
-## Conway's Game of Life
+## Snake
 
-<small><em>Updates every 6 hours and resets when the pattern stagnates</em></small>
+A snake that eats my contribution graph. It is regenerated every 12 hours by a GitHub Action.
 
-[![Update README with Game of Life](https://github.com/yashwanthvarma74-ai/yashwanthvarma74-ai/actions/workflows/update_readme.yml/badge.svg)](https://github.com/yashwanthvarma74-ai/yashwanthvarma74-ai/actions/workflows/update_readme.yml)
-
-<!-- LIFE-START -->
-```
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛🟩⬛🟩⬛⬛⬛⬛⬛🟩🟩🟩⬛🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛⬛⬛⬛⬛⬛🟩⬛⬛🟩⬛⬛⬛🟩⬛🟩🟩⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩⬛⬛⬛
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛🟩⬛⬛⬛
-🟩⬛🟩⬛⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛🟩⬛⬛⬛⬛⬛🟩⬛🟩⬛⬛⬛🟩🟩🟩⬛⬛⬛
-🟩🟩⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛🟩⬛⬛⬛⬛🟩🟩⬛🟩⬛🟩⬛⬛⬛🟩🟩⬛⬛🟩
-⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛🟩🟩⬛🟩⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩⬛
-⬛🟩⬛🟩⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛🟩🟩⬛⬛
-🟩⬛⬛⬛🟩⬛⬛🟩🟩🟩⬛⬛⬛⬛⬛🟩⬛⬛🟩⬛⬛⬛⬛🟩🟩⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛
-⬛⬛🟩🟩⬛⬛🟩⬛⬛🟩⬛⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛🟩🟩⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛🟩🟩⬛
-⬛⬛🟩⬛⬛⬛🟩⬛⬛⬛🟩🟩⬛⬛⬛⬛⬛🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩🟩⬛🟩🟩⬛
-⬛🟩🟩⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛🟩⬛⬛⬛🟩⬛🟩⬛⬛⬛⬛⬛⬛⬛🟩🟩⬛🟩⬛🟩⬛⬛⬛⬛
-⬛🟩🟩⬛⬛🟩⬛⬛⬛⬛🟩⬛🟩⬛🟩⬛🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛🟩⬛⬛⬛⬛🟩⬛
-⬛⬛⬛⬛🟩🟩🟩🟩🟩⬛🟩⬛⬛⬛⬛🟩⬛🟩⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛🟩⬛🟩⬛🟩🟩🟩⬛⬛⬛⬛⬛
-⬛⬛⬛⬛🟩⬛🟩🟩⬛⬛⬛⬛⬛🟩🟩⬛⬛⬛🟩⬛⬛⬛⬛⬛🟩🟩⬛🟩⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛⬛⬛⬛🟩🟩⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛⬛⬛⬛🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛🟩
-⬛⬛⬛⬛🟩🟩⬛🟩⬛🟩⬛⬛⬛⬛⬛⬛🟩🟩⬛🟩🟩⬛🟩⬛🟩🟩⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛🟩⬛⬛
-⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛⬛🟩🟩⬛⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛
-```
-
-Generation: **3** | Population: **171**/720
-<!-- LIFE-END -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashwanthvarma74-ai/yashwanthvarma74-ai/output/github-snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/yashwanthvarma74-ai/yashwanthvarma74-ai/output/github-snake.svg">
+</picture>
