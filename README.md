@@ -2,9 +2,11 @@
 
 I'm Yashwanth, a full stack engineer based in Hyderabad.
 
-I have been coding for years, and it is still the thing I most enjoy. I like taking an idea all the way to something live: the interface, the API, the data and the deployment. Recently that has meant four projects: Synapse, a local first collaborative workspace that merges offline edits with a CRDT; Atlas AI, a document copilot that answers with citations; Deccan Estates, a property platform with a Go verification service; and Meridian, an accessible React component library published to npm.
+I build products end to end, from the interface and API to the data layer, tests and deployment. My work centres on four projects: Synapse, a local first collaborative workspace that merges offline edits with a CRDT; Atlas AI, a document copilot that answers with cited sources; Deccan Estates, a property platform with a Go verification service; and Meridian, an accessible React component library published to npm.
 
-I'm drawn to real time systems, retrieval and developer tooling, and I'm looking for my first full stack or frontend engineering role.
+What draws me in is making complex systems behave predictably: real time collaboration that survives a lost connection, retrieval that can show its sources, and interfaces that stay accessible as they grow. I check my own claims with tests, benchmarks and threat models, and I write about what I get wrong along the way.
+
+I'm looking for my first full stack or frontend engineering role, where I can keep building systems that are reliable at scale.
 
 *"The computer programmer is a creator of universes for which he alone is the lawgiver."* ~ Weizenbaum
 
