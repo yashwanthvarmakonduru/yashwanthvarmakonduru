@@ -1,6 +1,6 @@
 # Yashwanth Varma
 
-*Build it, prove it, ship it.*
+*I ship, therefore I am.*
 
 I'm Yashwanth, a full stack engineer based in Hyderabad.
 
