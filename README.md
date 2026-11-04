@@ -6,7 +6,7 @@ I have been coding for years, and it is still the thing I most enjoy. I like tak
 
 I'm drawn to real time systems, retrieval and developer tooling, and I'm looking for my first full stack or frontend engineering role.
 
-*"The computer programmer is a creator of universes for which he alone is the lawgiver."* ~ Joseph Weizenbaum
+*"The computer programmer is a creator of universes for which he alone is the lawgiver."* ~ Weizenbaum
 
 [![Email](https://img.shields.io/badge/Email-yashwanthvarma74%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white)](mailto:yashwanthvarma74@gmail.com)
 [![npm](https://img.shields.io/badge/npm-%40yashwanthvarma74%2Freact-cb3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yashwanthvarma74/react)
