@@ -6,7 +6,7 @@ I build products end to end, from the interface and API to the data layer, tests
 
 What draws me in is making complex systems behave predictably: real time collaboration that survives a lost connection, retrieval that can show its sources, and interfaces that stay accessible as they grow. I check my own claims with tests, benchmarks and threat models, and I write about what I get wrong along the way.
 
-I'm looking for my first full stack or frontend engineering role, where I can keep building systems that are reliable at scale.
+I'm looking for full stack or frontend engineering role, where I can keep building systems that are reliable at scale.
 
 *"The computer programmer is a creator of universes for which he alone is the lawgiver."* ~ Weizenbaum
 
