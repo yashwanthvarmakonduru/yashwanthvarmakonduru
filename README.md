@@ -17,10 +17,10 @@ I'm looking for full stack or frontend engineering role, where I can keep buildi
 
 | Project | What it does | Links |
 | --- | --- | --- |
-| **Atlas AI** | Private knowledge copilot. Every answer cites its source page. Hybrid retrieval with a tenant filter, 95.4% recall@10 on its evaluation set. | [Demo](https://atlas-ai-seven-vert.vercel.app) / [Code](https://github.com/yashwanthvarma74-ai/Atlas-AI) |
-| **Synapse** | Local first collaborative workspace. Documents and a shared canvas that work offline and merge on reconnect, using Yjs and Redis fan out. | [Demo](https://synapse-app-beta.vercel.app) / [Code](https://github.com/yashwanthvarma74-ai/synapse) |
-| **Deccan Estates** | Hyderabad real estate platform with search, a verification report service in Go, owner posting and an inventory search assistant. | [Demo](https://deccan-estates-zeta.vercel.app) / [Code](https://github.com/yashwanthvarma74-ai/deccan-estates) |
-| **Meridian** | Accessible React component library on npm. Design tokens, three themes, Storybook, accessibility and visual regression checks in CI. | [Storybook](https://yashwanthvarma74-ai.github.io/designSystem/) / [Code](https://github.com/yashwanthvarma74-ai/designSystem) |
+| **Atlas AI** | Private knowledge copilot. Every answer cites its source page. Hybrid retrieval with a tenant filter, 95.4% recall@10 on its evaluation set. | [Demo](https://atlas-ai-seven-vert.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/Atlas-AI) |
+| **Synapse** | Local first collaborative workspace. Documents and a shared canvas that work offline and merge on reconnect, using Yjs and Redis fan out. | [Demo](https://synapse-app-beta.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/synapse) |
+| **Deccan Estates** | Hyderabad real estate platform with search, a verification report service in Go, owner posting and an inventory search assistant. | [Demo](https://deccan-estates-zeta.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/deccan-estates) |
+| **Meridian** | Accessible React component library on npm. Design tokens, three themes, Storybook, accessibility and visual regression checks in CI. | [Storybook](https://yashwanthvarmakonduru.github.io/designSystem/) / [Code](https://github.com/yashwanthvarmakonduru/designSystem) |
 
 ## Stack
 
@@ -35,6 +35,6 @@ TypeScript, React, Next.js, Node.js, Go, PostgreSQL, MongoDB, Redis, Docker, Git
 A snake that eats my contribution graph. It is regenerated every 12 hours by a GitHub Action.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashwanthvarma74-ai/yashwanthvarma74-ai/output/github-snake-dark.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/yashwanthvarma74-ai/yashwanthvarma74-ai/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashwanthvarmakonduru/yashwanthvarmakonduru/output/github-snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/yashwanthvarmakonduru/yashwanthvarmakonduru/output/github-snake.svg">
 </picture>
