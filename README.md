@@ -24,6 +24,10 @@ I'm drawn to real time systems, retrieval and developer tooling, and I'm looking
 
 TypeScript, React, Next.js, Node.js, Go, PostgreSQL, MongoDB, Redis, Docker, GitHub Actions
 
+## Writing
+
+[Why I used a CRDT and not OT for a collaborative editor](https://dev.to/yashwanthvarma/why-i-used-a-crdt-and-not-ot-for-a-collaborative-editor-54d5) on dev.to
+
 ## Snake
 
 A snake that eats my contribution graph. It is regenerated every 12 hours by a GitHub Action.
