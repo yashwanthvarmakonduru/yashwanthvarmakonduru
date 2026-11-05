@@ -1,17 +1,17 @@
 # Yashwanth Varma
 
-I'm Yashwanth, a software engineer and machine learning enthusiast based in Hyderabad.
+I'm Yashwanth, a full-stack software engineer based in Hyderabad, with a machine learning background.
 
 I'm from Hyderabad. I studied electronics and communication engineering at KL University, specialising in machine learning and deep learning, and worked on embedded systems, processor communication and IoT, where software has to run correctly on limited hardware over unreliable links.
 
 I moved into software engineering and built four projects, each exploring how complex systems stay correct when conditions are bad:
 
-- **Synapse**, a local first collaborative workspace that merges offline edits with a CRDT.
-- **Atlas AI**, a document copilot that answers questions with cited sources.
-- **Deccan Estates**, a property platform with a Go verification service.
+- **Deccan Estates**, a full-stack property platform: Next.js front end, Node API, a Go verification service and PostgreSQL.
+- **Synapse**, a local first collaborative workspace: React client, Node WebSocket server, MongoDB and Redis, merging offline edits with a CRDT.
+- **Atlas AI**, a document copilot: Next.js app, Node API and worker, MongoDB, hybrid retrieval with cited sources.
 - **Meridian**, an accessible React component library published to npm.
 
-Beyond building, I write about what I learn, including a published article on why I chose a CRDT over operational transformation. I'm looking for a software engineering role.
+Beyond building, I write about what I learn, including a published article on why I chose a CRDT over operational transformation. I'm looking for a full-stack software engineering role.
 
 *"The computer programmer is a creator of universes for which he alone is the lawgiver."* ~ Weizenbaum
 
@@ -23,14 +23,17 @@ Beyond building, I write about what I learn, including a published article on wh
 
 | Project | What it does | Links |
 | --- | --- | --- |
-| **Atlas AI** | Private knowledge copilot. Every answer cites its source page. Hybrid retrieval with a tenant filter, 95.4% recall@10 on its evaluation set. | [Demo](https://atlas-ai-seven-vert.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/Atlas-AI) |
-| **Synapse** | Local first collaborative workspace. Documents and a shared canvas that work offline and merge on reconnect, using Yjs and Redis fan out. | [Demo](https://synapse-app-beta.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/synapse) |
 | **Deccan Estates** | Hyderabad real estate platform with search, a verification report service in Go, owner posting and an inventory search assistant. | [Demo](https://deccan-estates-zeta.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/deccan-estates) |
+| **Synapse** | Local first collaborative workspace. Documents and a shared canvas that work offline and merge on reconnect, using Yjs and Redis fan out. | [Demo](https://synapse-app-beta.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/synapse) |
+| **Atlas AI** | Private knowledge copilot. Every answer cites its source page. Hybrid retrieval with a tenant filter, 95.4% recall@10 on its evaluation set. | [Demo](https://atlas-ai-seven-vert.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/Atlas-AI) |
 | **Meridian** | Accessible React component library on npm. Design tokens, three themes, Storybook, accessibility and visual regression checks in CI. | [Storybook](https://yashwanthvarmakonduru.github.io/designSystem/) / [Code](https://github.com/yashwanthvarmakonduru/designSystem) |
 
 ## Stack
 
-TypeScript, React, Next.js, Node.js, Go, PostgreSQL, MongoDB, Redis, Docker, GitHub Actions
+- **Front end:** TypeScript, React, Next.js
+- **Back end:** Node.js, Go, REST, WebSockets
+- **Data:** PostgreSQL, MongoDB, Redis
+- **Delivery:** Docker, GitHub Actions, Vercel, Render
 
 ## Writing
 
