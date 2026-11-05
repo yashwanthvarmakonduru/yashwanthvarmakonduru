@@ -1,14 +1,12 @@
 # Yashwanth Varma
 
-I'm Yashwanth, a full stack engineer based in Hyderabad who builds software end to end and cares about getting the hard parts right.
+I'm Yashwanth, a software engineer and machine learning enthusiast based in Hyderabad.
 
-I started in electronics. I studied electronics and communication engineering with a specialisation in machine learning and deep learning, and I worked on embedded systems, processor communication and IoT, where software has to be correct on limited hardware and over unreliable links. That background shapes how I build: I design for failure first, whether the thing that fails is a sensor, a network or a server.
+I'm from Hyderabad. I studied electronics and communication engineering at KL University, specialising in machine learning and deep learning, and worked on embedded systems, processor communication and IoT, where software has to run correctly on limited hardware over unreliable links.
 
-My recent work is four production style projects, each aimed at a problem that is easy to get wrong. In Synapse, a local first collaborative workspace, I used a CRDT so that two people can edit the same paragraph offline and merge without losing anything, and I checked the guarantee with a property based test that ran 10,000 times. In Atlas AI, a document copilot, I built hybrid retrieval with a tenant filter so every answer cites its source page, and I measured it: 95.4% recall@10 on an evaluation set and zero cross tenant leaks in the isolation tests.
+I moved into software engineering and built four systems: a local first collaborative workspace that merges offline edits with a CRDT, a document copilot that answers with cited sources, a property platform with a Go verification service, and an accessible React component library published to npm. Each one explores how complex systems stay correct when conditions are bad.
 
-In Deccan Estates, a Hyderabad property platform, I split the verification logic into a Go service and kept it in step with the TypeScript original through 1,200 shared test cases. In Meridian, I published an accessible React component library to npm, with accessibility and visual regression checks that block a merge when they fail.
-
-What drives me is the gap between software that works in a demo and software that holds up in use. I write down my design decisions, measure my own claims, and publish what I get wrong. I'm looking for my first full stack or frontend engineering role, where I can keep building systems that stay reliable at scale.
+Beyond building, I write about what I learn, including a published article on why I chose a CRDT over operational transformation. I'm looking for my first software engineering role.
 
 *"The computer programmer is a creator of universes for which he alone is the lawgiver."* ~ Weizenbaum
 
