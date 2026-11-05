@@ -15,8 +15,8 @@ Beyond building, I write about what I learn, including a published article on wh
 
 *"The computer programmer is a creator of universes for which he alone is the lawgiver."* ~ Weizenbaum
 
-[![Email](https://img.shields.io/badge/Email-contact%40yashwanthvarma.com-2ea44f?style=flat-square)](mailto:contact@yashwanthvarma.com)
 [![npm](https://img.shields.io/badge/npm-%40yashwanthvarma74%2Freact-cb3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yashwanthvarma74/react)
+[![Email](https://img.shields.io/badge/Email-contact%40yashwanthvarma.com-2ea44f?style=flat-square)](mailto:contact@yashwanthvarma.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yashwanthvarma-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanthvarma)
 
 ## Selected work
