@@ -4,9 +4,14 @@ I'm Yashwanth, a software engineer and machine learning enthusiast based in Hyde
 
 I'm from Hyderabad. I studied electronics and communication engineering at KL University, specialising in machine learning and deep learning, and worked on embedded systems, processor communication and IoT, where software has to run correctly on limited hardware over unreliable links.
 
-I moved into software engineering and built four systems: a local first collaborative workspace that merges offline edits with a CRDT, a document copilot that answers with cited sources, a property platform with a Go verification service, and an accessible React component library published to npm. Each one explores how complex systems stay correct when conditions are bad.
+I moved into software engineering and built four projects, each exploring how complex systems stay correct when conditions are bad:
 
-Beyond building, I write about what I learn, including a published article on why I chose a CRDT over operational transformation. I'm looking for my first software engineering role.
+- **Synapse**, a local first collaborative workspace that merges offline edits with a CRDT.
+- **Atlas AI**, a document copilot that answers questions with cited sources.
+- **Deccan Estates**, a property platform with a Go verification service.
+- **Meridian**, an accessible React component library published to npm.
+
+Beyond building, I write about what I learn, including a published article on why I chose a CRDT over operational transformation. I'm looking for a software engineering role.
 
 *"The computer programmer is a creator of universes for which he alone is the lawgiver."* ~ Weizenbaum
 
