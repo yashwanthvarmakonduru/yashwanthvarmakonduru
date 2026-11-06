@@ -25,7 +25,7 @@ Beyond building, I write about what I learn, including a published article on wh
 | --- | --- | --- |
 | **Deccan Estates** | Hyderabad real estate platform with search, a verification report service in Go, owner posting and an inventory search assistant. | [Demo](https://deccan-estates-zeta.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/deccan-estates) |
 | **Synapse** | Local first collaborative workspace. Documents and a shared canvas that work offline and merge on reconnect, using Yjs and Redis fan out. | [Demo](https://synapse-app-beta.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/synapse) |
-| **Atlas AI** | Private knowledge copilot. Every answer cites its source page. Hybrid retrieval with a tenant filter, 95.4% recall@10 on its evaluation set. | [Demo](https://atlas-ai-seven-vert.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/Atlas-AI) |
+| **Atlas AI** | Private knowledge copilot. Every answer cites its source page. Hybrid retrieval with a tenant filter, 95.4% recall@10 on its evaluation set. | [Demo](https://atlasai-beta.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/Atlas-AI) |
 | **Meridian** | Accessible React component library on npm. Design tokens, three themes, Storybook, accessibility and visual regression checks in CI. | [Storybook](https://yashwanthvarmakonduru.github.io/designSystem/) / [Code](https://github.com/yashwanthvarmakonduru/designSystem) |
 
 ## Stack
