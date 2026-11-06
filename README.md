@@ -2,7 +2,7 @@
 
 I'm Yashwanth, a full-stack software engineer based in Hyderabad, with a machine learning background.
 
-I'm from Hyderabad. I studied electronics and communication engineering at KL University, specialising in machine learning and deep learning, and worked on embedded systems, processor communication and IoT, where software has to run correctly on limited hardware over unreliable links.
+I'm from Hyderabad. I studied electronics and communication engineering at KL University, specialising in data computing and machine learning, and worked on embedded systems, processor communication and IoT, where software has to run correctly on limited hardware over unreliable links.
 
 I moved into software engineering and built four projects, each exploring how complex systems stay correct when conditions are bad:
 
