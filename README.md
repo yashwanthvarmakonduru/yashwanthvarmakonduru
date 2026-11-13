@@ -1,21 +1,15 @@
 # Yashwanth Varma
 
-I'm Yashwanth, a full-stack software engineer based in Hyderabad, with a machine learning background.
+**Frontend Engineer | Design Systems & Accessibility** · Hyderabad, India
 
-I'm from Hyderabad. I studied electronics and communication engineering at KL University, specialising in data computing and machine learning, and worked on embedded systems, processor communication and IoT, where software has to run correctly on limited hardware over unreliable links.
+Frontend engineer with 3 years building accessible, high-performance React and Next.js apps for banking and insurance clients at Genpact. Built a 35+ component design system adopted by 2 teams and took critical accessibility violations from 40+ to zero. Author of **Meridian**, an open-source, WCAG-tested React component library.
 
-I moved into software engineering and built four projects, each exploring how complex systems stay correct when conditions are bad:
-
-- **Deccan Estates**, a full-stack property platform: Next.js front end, Node API, a Go verification service and PostgreSQL.
-- **Synapse**, a local first collaborative workspace: React client, Node WebSocket server, MongoDB and Redis, merging offline edits with a CRDT.
-- **Atlas AI**, a document copilot: Next.js app, Node API and worker, MongoDB, hybrid retrieval with cited sources.
-- **Meridian**, an accessible React component library published to npm.
-
-Beyond building, I write about what I learn, including a published article on why I chose a CRDT over operational transformation. I'm looking for a full-stack software engineering role.
-
-*"The computer programmer is a creator of universes for which he alone is the lawgiver."* ~ Weizenbaum
+- **Banking Operations App:** cut dashboard load 40% (4.2s → 2.5s), raised Lighthouse from 58 to 91, and reduced API requests per page from 14 to 5 with RTK Query.
+- **Insurance Claims Portal:** owned a Next.js portal for 500+ daily users; a multi-step claim form with React Hook Form and Zod cut incomplete submissions 30%.
+- **Frontend Platform & Accessibility:** CI accessibility gates, screen-reader reviews, and a WCAG 2.1 AA workshop for 30+ engineers.
 
 [![npm](https://img.shields.io/badge/npm-%40yashwanthvarma74%2Freact-cb3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yashwanthvarma74/react)
+[![Website](https://img.shields.io/badge/Website-yashwanthvarma.com-111111?style=flat-square)](https://yashwanthvarma.com)
 [![Email](https://img.shields.io/badge/Email-contact%40yashwanthvarma.com-2ea44f?style=flat-square)](mailto:contact@yashwanthvarma.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yashwanthvarma-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanthvarma)
 
@@ -23,17 +17,17 @@ Beyond building, I write about what I learn, including a published article on wh
 
 | Project | What it does | Links |
 | --- | --- | --- |
+| **Meridian** | Accessible React component library: 31 components on npm (incl. a virtualized DataTable), light/dark/high-contrast themes from design tokens, zero axe violations, 94% test coverage, 15.3 kB gzipped. | [Storybook](https://yashwanthvarmakonduru.github.io/designSystem/) / [npm](https://www.npmjs.com/package/@yashwanthvarma74/react) / [Code](https://github.com/yashwanthvarmakonduru/designSystem) |
 | **Deccan Estates** | Hyderabad real estate platform with search, a verification report service in Go, owner posting and an inventory search assistant. | [Demo](https://deccan-estates-zeta.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/deccan-estates) |
 | **Synapse** | Local first collaborative workspace. Documents and a shared canvas that work offline and merge on reconnect, using Yjs and Redis fan out. | [Demo](https://synapse-app-beta.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/synapse) |
 | **Atlas AI** | Private knowledge copilot. Every answer cites its source page. Hybrid retrieval with a tenant filter, 95.4% recall@10 on a generated evaluation set. | [Demo](https://atlasai-beta.vercel.app) / [Code](https://github.com/yashwanthvarmakonduru/Atlas-AI) |
-| **Meridian** | Accessible React component library on npm. Design tokens, three themes, Storybook, accessibility and visual regression checks in CI. | [Storybook](https://yashwanthvarmakonduru.github.io/designSystem/) / [Code](https://github.com/yashwanthvarmakonduru/designSystem) |
 
 ## Stack
 
-- **Front end:** TypeScript, React, Next.js
-- **Back end:** Node.js, Go, REST, WebSockets
-- **Data:** PostgreSQL, MongoDB, Redis
-- **Delivery:** Docker, GitHub Actions, Vercel, Render
+- **Frontend:** TypeScript, JavaScript, HTML/CSS, React, Next.js, Redux Toolkit/RTK Query, Tailwind CSS
+- **Design systems:** Storybook, Style Dictionary, Design Tokens, React Aria, Material UI, Figma
+- **Testing & accessibility:** Jest, Vitest, React Testing Library, Playwright, axe-core, WCAG 2.1 AA, NVDA, VoiceOver
+- **Performance & tools:** Core Web Vitals, Lighthouse CI, Vite, Git, GitHub Actions, Changesets, Jira
 
 ## Writing
 
